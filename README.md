@@ -1,4 +1,4 @@
-# 仇河东 324085503103 24机械1班 github：https://github.com/Key407/K
+# 张友贵 机械243 324085503333
 ## 拒绝采样的方法模拟样本.py
 ```python
 import numpy as np
