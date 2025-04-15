@@ -1,4 +1,4 @@
-# 张友贵 机械243 324085503333
+# 张友贵 机械243 324085503333  https://github.com/zhangyougui/zhangyougui2
 ## 拒绝采样的方法模拟样本.py
 ```python
 import numpy as np
